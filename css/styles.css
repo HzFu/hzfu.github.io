@@ -1,10 +1,10 @@
 a:link {
-  color: #75A3D1;
+  color: #0D4C92;
   background-color: transparent; 
   font-weight: bold;
 }
 a:visited {
-  color: #75A3D1;
+  color: #0D4C92;
   background-color: transparent; 
   font-weight: bold;
 }
@@ -14,36 +14,27 @@ a:hover {
   font-weight: bold;
 }
 a:active {
-  color: #75A3D1;
+  color: #0D4C92;
   background-color: transparent; 
   font-weight: bold;
 }
 hl_color{
-  color: #F3843E;
+  color: #cc0000;
   background-color: transparent;
   font-weight: bold; 
 }
 
 hl_grant{
-  color: #A0D995;
+  color: #5F8D4E;
   background-color: transparent; 
   font-weight: bold;
-}
-
+} 
 html{
-  color: #F9F5EB; 
-  background-color: #222222; 
+  color: #222222 ; 
+  background-color: #F9F5EB; 
   font-family: Helvetica, Tahoma, Arial; 
-  font-weight: 300; 
+  /* font-weight: 300;  */
   width:1080px; 
   margin: 0 auto; 
   line-height:150%
 }
-/* body{ 
-  font-family: Helvetica, Tahoma, Arial; 
-  width: 1080px; 
-  margin: 0 auto; 
-  line-height:150%;
-  color: #F2F2F3;
-  background-color: #333333; 
-} */

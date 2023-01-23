@@ -9,7 +9,7 @@ a:visited {
   font-weight: bold;
 }
 a:hover {
-  color: #cc0000;
+  color: #FF7B54;
   background-color: transparent; 
   font-weight: bold;
 }
@@ -25,13 +25,13 @@ hl_color{
 }
 
 hl_grant{
-  color: #5F8D4E;
+  color: #1FAB89;
   background-color: transparent; 
   font-weight: bold;
 } 
 html{
-  color: #222222 ; 
-  background-color: #F9F5EB; 
+  color: #222831 ; 
+  background-color: #EEEEEE; 
   font-family: Helvetica, Tahoma, Arial; 
   /* font-weight: 300;  */
   width:1080px; 

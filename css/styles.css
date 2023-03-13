@@ -1,25 +1,18 @@
 a:link {
-  color: #1a73e8;
-  background-color: transparent; 
-  /* font-weight: bold; */
+  color: #38598E;
+  background-color: transparent;  
 }
 a:visited {
-  color: #1a73e8;
+  color: #38598E;
   background-color: transparent; 
-  /* font-weight: bold; */
 }
 a:hover {
-  color: #FF7B54;
+  color: #A84448;
   background-color: transparent; 
   font-weight: bold;
-}
-a:active {
-  color: #1a73e8;
-  background-color: transparent; 
-  font-weight: bold;
-}
+} 
 hl_color{
-  color: #cc0000;
+  color: #CF0A0A;
   background-color: transparent;
   font-weight: bold; 
 }
@@ -30,8 +23,8 @@ hl_grant{
   font-weight: bold;
 } 
 html{
-  color: #5f6368; 
-  background-color: #f1f3f4; 
+  color: #333333; 
+  background-color: #CCCCCC; 
   font-family: Helvetica, Tahoma, Arial; 
   /* font-weight: 300;  */
   margin: 0 auto;  

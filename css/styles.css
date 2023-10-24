@@ -9,8 +9,7 @@ a:visited {
 }
 a:hover {
   color: #A84448;
-  background-color: transparent; 
-  font-weight: bold;
+  background-color: transparent;  
 } 
 hl_color{
   color: #CF0A0A;

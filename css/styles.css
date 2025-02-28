@@ -1,18 +1,18 @@
 
 a:link {
-  color: #38598E;
+  color: #003153;
   background-color: transparent;  
 }
 a:visited {
-  color: #38598E;
+  color: #003153;
   background-color: transparent; 
 }
 a:hover {
-  color: #A84448;
+  color: #8F4B28;
   background-color: transparent;  
 } 
 hl_color{
-  color: #CF0A0A;
+  color: #8F4B28;
   background-color: transparent;
   font-weight: bold; 
 }

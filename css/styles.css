@@ -1,27 +1,22 @@
 
 a:link {
-  color: #003153;
+  color: #547792;
   background-color: transparent;  
 }
 a:visited {
-  color: #003153;
+  color: #547792;
   background-color: transparent; 
 }
 a:hover {
-  color: #8F4B28;
+  color: #BB3E00;
   background-color: transparent;  
 } 
 hl_color{
-  color: #8F4B28;
+  color: #BB3E00;
   background-color: transparent;
   font-weight: bold; 
 }
-
-hl_grant{
-  color: #227C70;
-  background-color: transparent; 
-  font-weight: bold;
-} 
+ 
 html{
   color: #333333; 
   background-color: #CCCCCC; 

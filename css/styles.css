@@ -4,22 +4,21 @@ a:link {
   background-color: transparent;  
 }
 a:visited {
-  color: #586D80;
+  color: #2A4C65;
   background-color: transparent; 
 }
 a:hover {
-  color: #BB3E00;
+  color: #B95756;
   background-color: transparent;  
 } 
 hl_color{
   color: #B95756;
-  background-color: transparent;
-  font-weight: bold; 
+  background-color: transparent; 
 }
  
 html{
   color: #1F2C1C; 
-  background-color: #DCDDDF; 
+  background-color: #E0E0E0; 
   font-family: Arial, sans-serif; 
   font-size: 16px;
   margin: 0 auto;  

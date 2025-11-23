@@ -1,25 +1,25 @@
 
 a:link {
-  color: #2B5A6C;
+  color: #88a5d1;
   background-color: transparent;  
 }
 a:visited {
-  color: #2B5A6C;
+  color: #88a5d1;
   background-color: transparent; 
 }
 a:hover {
-  color: #AD322B;
+  color: #a42423;
   background-color: transparent;  
 } 
 hl_color{
-  color: #AD322B;
+  color: #e60012;
   background-color: transparent; 
   font-weight:  bold;
 }
  
 html{
-  color: #1F2C1C; 
-  background-color: #E0E0E0; 
+  color: #ce9b57; 
+  background-color: #0b0a09; 
   font-family: Arial, sans-serif; 
   font-size: 16px;
   margin: 0 auto;  

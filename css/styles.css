@@ -8,18 +8,24 @@ a:visited {
   background-color: transparent; 
 }
 a:hover {
-  color: #a42423;
+  color: #c94e3c;
   background-color: transparent;  
 } 
 hl_color{
-  color: #e60012;
+  color: #c94e3c;
   background-color: transparent; 
   font-weight:  bold;
 }
- 
+
+hl_award{
+  color: #15100e;
+  background-color: #ccab6c; 
+  /* font-weight:  bold; */
+}
+
 html{
-  color: #ce9b57; 
-  background-color: #0b0a09; 
+  color: #ccab6c; 
+  background-color: #15100e; 
   font-family: Arial, sans-serif; 
   font-size: 16px;
   margin: 0 auto;  

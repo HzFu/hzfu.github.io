@@ -12,19 +12,19 @@ a:hover {
   background-color: transparent;  
 } 
 hl_color{
-  color: #c94e3c;
+  color: #ff8a00;
   background-color: transparent; 
   font-weight:  bold;
 }
 
 hl_award{
-  color: #15100e;
-  background-color: #ccab6c;  
+  color: #141622;
+  background-color: #ccab6b;  
 }
 
 html{
-  color: #ccab6c; 
-  background-color: #15100e; 
+  color: #ccab6b; 
+  background-color: #0d131a; 
   font-family: Arial, sans-serif; 
   font-size: 16px;
   margin: 0 auto;  
